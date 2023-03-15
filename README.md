@@ -16,4 +16,4 @@ npm run dev | yarn dev
 
 ```
 
-[Demo][https://nubelity-code-challenge.vercel.app/]
+[Demo][https://nubelity-code-challenge.netlify.app/]
